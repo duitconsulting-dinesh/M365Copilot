@@ -1,4 +1,4 @@
-# Attend Ease 2026 -- Copilot App Builder Prompt
+# Attend Ease 2026 - Copilot App Builder(Frontier) Prompt
 
 ## App Name
 
